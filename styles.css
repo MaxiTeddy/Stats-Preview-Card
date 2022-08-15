@@ -61,16 +61,16 @@ h2{
 
 @media only screen and (min-width: 1000px){
     .page{
-        width: 80vw;
+        width: 90vw;
         display: flex;
         flex-direction: row-reverse;
-        height: 450px;
+        height: 400px;
     }
 
     .gallery{
         width: 50%;
         margin: 0;
-        height: 450px;
+        height: 400px;
         background: url(/images/image-header-desktop.jpg) no-repeat;
         border-radius: 0 5px 5px 0;
         background-color: hsl(277, 64%, 61%);
@@ -80,7 +80,7 @@ h2{
         width: 40%;
         padding: 40px 40px;
         text-align: left;
-        height: 450px;
+        height: 400px;
     }
 
     h1{
